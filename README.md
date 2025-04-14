@@ -1,1 +1,3 @@
-Hi, ya'll! This is my first Maven Project. It's a very basic greeting generator web app created with Maven. 
+# 🌟 Greeting Generator Web App
+
+Hi there! 👋 This is my first Maven project - a simple but functional greeting generator web application.
